@@ -9,7 +9,18 @@ I'm working as a specialist consultant in Computer Vision, Machine Learning and 
 I design and implements advanced algorithms and helps teams deliver more valuable code and better algorithms by knowledge sharing and strategic leadership. I use C, C++ and Python and have my expertise in the Linux and embedded Linux environment. I improve tooling, agility and robustness by applying engineering best practices to MLOps, training code and data management. I increase product performance by benchmarking, optimizing implementations and writing extensions for python code. I increase accuracy by designing evaluation platforms, redesigning algorithms and performing hyper parameter tuning. I enable strategic planning by implementing dashboards, tracking KPIs and integrating data lineage, experiment tracking and automating live feed-back loops.
 
 #### What I've done
-Before getting into consulting I worked both as a senior developer and as a technical lead in video analytics. I've got experience from both product development and maintenance as well as software and ML research. I have worked at tiny companies with a few developers and at international giants. I have been mentoring new employees, I've been supervisor for master's thesis students and summer workers and have done public speaking and knowledge sharing to teach and inspire people to become the best engineers.
+Before getting into consulting I worked both as a senior developer and as a technical lead in video analytics. I've got experience from both product development and maintenance as well as software and ML research. I have worked at tiny start-ups with a few developers and at international fortune giants. I have been mentoring new employees, I've been supervisor for master's thesis students, teacher for machine learning classes and have done public speaking and knowledge sharing to teach and inspire people to become the best engineers.
+
+Some well known MLOps projects I have contributed to:
+- ActiveLoop and DeepLake ([multiple contributions](https://github.com/activeloopai/deeplake/pulls?q=author%3Adaniel-falk+) and [discussions](https://github.com/activeloopai/deeplake/issues?q=is%3Aissue+author%3Adaniel-falk+))
+- [Kedro (Author or the video dataset)](https://github.com/kedro-org/kedro/pulls?q=author%3Adaniel-falk+) and [Kedro-Plugins](https://github.com/kedro-org/kedro-plugins/issues?q=author%3Adaniel-falk+)
+- [NNABLA Neural Networks Library](https://github.com/sony/nnabla/issues?q=author%3Adaniel-falk+), [DVC and DVC-render](https://github.com/iterative/dvc-render/issues?q=author%3Adaniel-falk+), [Pachyderm](https://github.com/pachyderm/pachyderm/issues?q=author%3Adaniel-falk+)
+
+Some other projects I have contributed to or participated in discussions in:
+- [ACAP3 SDK examples](https://github.com/AxisCommunications/acap3-examples/issues?q=author%3Adaniel-falk+)
+- [ACAP4 SDK examples](https://github.com/AxisCommunications/acap-computer-vision-sdk-examples/issues?q=author%3Adaniel-falk+)
+- [ACAP4 SDK](https://github.com/AxisCommunications/acap-computer-vision-sdk/issues?q=author%3Adaniel-falk+)
+- [Python](https://github.com/python/cpython/search?q=%22daniel-falk%22&type=issues)
 
 #### Get in touch with me
 

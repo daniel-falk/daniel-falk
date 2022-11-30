@@ -21,6 +21,7 @@ Some other projects I have contributed to or participated in discussions in:
 - [ACAP4 SDK examples](https://github.com/AxisCommunications/acap-computer-vision-sdk-examples/issues?q=author%3Adaniel-falk+)
 - [ACAP4 SDK](https://github.com/AxisCommunications/acap-computer-vision-sdk/issues?q=author%3Adaniel-falk+)
 - [Python](https://github.com/python/cpython/search?q=%22daniel-falk%22&type=issues)
+- [vi3o](https://github.com/hakanardo/vi3o/issues?q=author%3Adaniel-falk+)
 
 #### Get in touch with me
 

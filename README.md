@@ -1,6 +1,6 @@
-AI, Computer Vision and Machine Learning
+# AI, Computer Vision and Machine Learning
 
-<img src="https://fixedit-public-hosted.s3.eu-north-1.amazonaws.com/graphics/cover.jpg"/>
+<img src="https://fixedit-public-hosted.s3.eu-north-1.amazonaws.com/graphics/cover2.jpg"/>
 
 #### What I do
 I'm working as a specialist consultant in Computer Vision, Machine Learning and edge computing. I focus on the engineering aspects needed to maximize the bottom line profit for companies using AI and algorithms.

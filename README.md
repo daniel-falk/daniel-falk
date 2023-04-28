@@ -1,15 +1,20 @@
-# AI, Computer Vision and Machine Learning
+# AI, EdgeAI, Computer Vision, Machine Learning, Axis ACAP and video analytics
 
 <img src="https://fixedit-public-hosted.s3.eu-north-1.amazonaws.com/graphics/cover2.jpg"/>
 
 #### What I do
-I'm working as a specialist consultant in Computer Vision, Machine Learning and edge computing. I focus on the engineering aspects needed to maximize the bottom line profit for companies using AI and algorithms.
+I'm the lead consultant and founder of FixedIT.ai where we help companies create cutting edge video analytics for edge devices. Our focus is the Axis Communications network cameras. I'm a specialist in Computer Vision, Machine Learning and edge computing with many years of experience of both the deep learning field and the embedded field. I focus on the engineering aspects needed to maximize the bottom line profit for companies.
 
 #### How I do it
-I design and implements advanced algorithms and helps teams deliver more valuable code and better algorithms by knowledge sharing and strategic leadership. I use C, C++ and Python and have my expertise in the Linux and embedded Linux environment. I improve tooling, agility and robustness by applying engineering best practices to MLOps, training code and data management. I increase product performance by benchmarking, optimizing implementations and writing extensions for python code. I increase accuracy by designing evaluation platforms, redesigning algorithms and performing hyper parameter tuning. I enable strategic planning by implementing dashboards, tracking KPIs and integrating data lineage, experiment tracking and automating live feed-back loops.
+* I design and implement advanced algorithms and helps teams deliver more valuable code and better algorithms by knowledge sharing and strategic leadership.
+* I use C, C++ and Python and have my expertise in the Linux and embedded Linux environment. I use my experience to build more robust and more efficient code that is easier to read and understand.
+* I improve tooling, agility and robustness by applying engineering best practices to MLOps, training code and data management.
+* I increase product performance by benchmarking, optimizing implementations and writing extensions for python code.
+* I increase accuracy by designing evaluation platforms, profiling code and redesigning algorithms.
+* I enable strategic planning by implementing dashboards, tracking KPIs and integrating data lineage, experiment tracking and automating live feed-back loops.
 
 #### What I've done
-Before getting into consulting I worked both as a senior developer and as a technical lead in video analytics. I've got experience from both product development and maintenance as well as software and ML research. I have worked at tiny start-ups with a few developers and at international fortune giants. I have been mentoring new employees, I've been supervisor for master's thesis students, teacher for machine learning classes and have done public speaking and knowledge sharing to teach and inspire people to become the best engineers.
+Before getting into consulting I worked both as a senior developer and as a technical lead at Axis Communications in the video analytics teams. I've got experience from both product development and maintenance as well as software and ML research. I have worked at tiny start-ups with a few developers and at international fortune 500 giants. I have been mentoring new employees, I've been supervisor for master's thesis students, teacher for machine learning classes and have done public speaking and knowledge sharing to teach and inspire people to become the best engineers.
 
 Some well known MLOps projects I have contributed to:
 - ActiveLoop and DeepLake ([multiple contributions](https://github.com/activeloopai/deeplake/pulls?q=author%3Adaniel-falk+) and [discussions](https://github.com/activeloopai/deeplake/issues?q=is%3Aissue+author%3Adaniel-falk+))

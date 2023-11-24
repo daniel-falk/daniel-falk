@@ -3,7 +3,9 @@
 <img src="https://fixedit-public-hosted.s3.eu-north-1.amazonaws.com/graphics/cover2.jpg"/>
 
 #### What I do
-I'm the lead consultant and founder of FixedIT.ai where we help companies create cutting edge video analytics for edge devices. Our focus is the Axis Communications network cameras. I'm a specialist in Computer Vision, Machine Learning and edge computing with many years of experience of both the deep learning field and the embedded field. I focus on the engineering aspects needed to maximize the bottom line profit for companies.
+I'm the lead consultant and founder of FixedIT.ai where we help companies create cutting edge video analytics for edge devices. We offer developer tools, platforms, advice and consultation to ACAP developers. Our core focus is edge applications for the Axis Communications network cameras. I'm a specialist in Computer Vision, Machine Learning and edge computing with many years of experience of both the deep learning field and the embedded field. I focus on the engineering aspects needed to maximize the bottom line profit for companies.
+
+I share a lot of my knowledge about ACAP development in our e-learning portal (you can sign-up for free): https://learning.fixedit.ai
 
 #### How I do it
 * I design and implement advanced algorithms and helps teams deliver more valuable code and better algorithms by knowledge sharing and strategic leadership.
